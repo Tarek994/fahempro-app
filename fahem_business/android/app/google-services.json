@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "225748921499",
+    "firebase_url": "https://fahem-9ad2c-default-rtdb.firebaseio.com",
+    "project_id": "fahem-9ad2c",
+    "storage_bucket": "fahem-9ad2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225748921499:android:a2560d118db183d56a2a3e",
+        "android_client_info": {
+          "package_name": "com.app.fahem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225748921499-8vbuuhdlkveknrpvsaukcnuvk8h42cop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.fahem",
+            "certificate_hash": "a08ddbfaa8d8d965facddfc7c6b8fd5f4291d168"
+          }
+        },
+        {
+          "client_id": "225748921499-dr43pq4t1gll2blftnr4kovpdljj29j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.fahem",
+            "certificate_hash": "ea26d28a616e9475aae1b6103fbaccf22b75c311"
+          }
+        },
+        {
+          "client_id": "225748921499-prvsem6oq6bg4c448rhq5imgd686hh81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.fahem",
+            "certificate_hash": "b4f7b1f1907b6e86649f0117b4619548546ac87f"
+          }
+        },
+        {
+          "client_id": "225748921499-b97t32hl9pfislemmr4fdr90g8p05ptg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITCtY7kLPltmOZqq0lVXe2nv58EeWNdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225748921499-b97t32hl9pfislemmr4fdr90g8p05ptg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225748921499-ek06ju4qlefocs0kbijetucb5uelc5ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.fahem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225748921499:android:12c19504a9545e896a2a3e",
+        "android_client_info": {
+          "package_name": "com.app.fahem_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225748921499-q72kb9btumpeqlsha0stve808ukthcen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.fahem_admin",
+            "certificate_hash": "ea26d28a616e9475aae1b6103fbaccf22b75c311"
+          }
+        },
+        {
+          "client_id": "225748921499-b97t32hl9pfislemmr4fdr90g8p05ptg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITCtY7kLPltmOZqq0lVXe2nv58EeWNdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225748921499-b97t32hl9pfislemmr4fdr90g8p05ptg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225748921499-ek06ju4qlefocs0kbijetucb5uelc5ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.fahem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225748921499:android:1288cfbf2b25a6a36a2a3e",
+        "android_client_info": {
+          "package_name": "com.app.fahem_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225748921499-kdjvnlqkjt5f1p22dlnj4r9gao6ripk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.fahem_business",
+            "certificate_hash": "ea26d28a616e9475aae1b6103fbaccf22b75c311"
+          }
+        },
+        {
+          "client_id": "225748921499-b97t32hl9pfislemmr4fdr90g8p05ptg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITCtY7kLPltmOZqq0lVXe2nv58EeWNdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225748921499-b97t32hl9pfislemmr4fdr90g8p05ptg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225748921499-ek06ju4qlefocs0kbijetucb5uelc5ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.fahem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225748921499:android:ff1b8ee22539cd4a6a2a3e",
+        "android_client_info": {
+          "package_name": "com.app.fahem_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225748921499-b97t32hl9pfislemmr4fdr90g8p05ptg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITCtY7kLPltmOZqq0lVXe2nv58EeWNdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225748921499-b97t32hl9pfislemmr4fdr90g8p05ptg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225748921499-ek06ju4qlefocs0kbijetucb5uelc5ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.fahem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
